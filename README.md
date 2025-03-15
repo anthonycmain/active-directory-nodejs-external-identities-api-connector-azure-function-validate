@@ -9,7 +9,7 @@ description: "A sample to demonstrate how to validating a sign-up user flow usin
 urlFragment: "active-directory-nodejs-external-identities-api-connector-azure-function-validate"
 ---
 
-# User flow sign-up customization using Python Azure Function and API connectors
+# User flow sign-up customization using Node Azure Function and API connectors
 
 This sample demonstrates how to use API connectors to customize sign-up for [Azure AD guest user self-service sign-up](https://docs.microsoft.com/azure/active-directory/b2b/self-service-sign-up-overview) and [Azure AD B2C sign-up user flows](https://docs.microsoft.com/azure/active-directory-b2c/tutorial-create-user-flows).
 
